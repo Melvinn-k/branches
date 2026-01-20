@@ -9,3 +9,4 @@ for number in range(5, 11):
 for number in range(1, 11):
     if number != 6:
         print(number)
+
