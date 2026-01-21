@@ -1,0 +1,2 @@
+Temperature shown in Celsius
+Updated by Developer B
